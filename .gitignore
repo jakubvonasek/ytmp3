@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore PyInstaller build files
+build/
+dist/
+*.spec
+
+# Ignore macOS system files
+.DS_Store
